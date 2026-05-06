@@ -1,4 +1,7 @@
 # ExcelProjects
+<a href="https://github.com/Swapnil-2105/ExcelProjects/blob/main/Screenshot%202026-05-06%20210409.png"> Dashboard View</a>
+<img width="1920" height="1080" alt="Screenshot 2026-05-06 210409" src="https://github.com/user-attachments/assets/9be7d74a-a4f2-476f-b072-0b57c175efd8" />
+
 I recently created an interactive Sales Dashboard in Excel to analyze sales performance, customer behavior, and profit trends from a retail dataset.
 📌 Problem Statement:
 Businesses often struggle to understand large amounts of sales data and identify important patterns that can help improve decision-making.
